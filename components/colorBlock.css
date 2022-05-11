@@ -1,0 +1,11 @@
+.color-block {
+  height: 40px;
+  width: 40px;
+  border: 1px solid blanchedalmond;
+  border-radius: 60%;
+}
+
+.color-container {
+  display: flex;
+  justify-content: space-around;
+}
